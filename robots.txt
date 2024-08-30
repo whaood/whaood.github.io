@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whaood.github.io/sitemap/sitemap.bLp.gz
