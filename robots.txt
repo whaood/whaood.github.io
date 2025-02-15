@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whaood.csgad.com/xKn/sitemap.xml.gz
